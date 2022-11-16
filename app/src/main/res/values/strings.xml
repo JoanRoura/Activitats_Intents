@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="boto_categories">Afegir Categoria</string>
+    <string name="boto_canviar_activity">Afegir</string>
+    <string name="user">User</string>
+    <string name="text_categoria"></string>
+    <string name="boto_afegir_categoria">Afegir</string>
+    <string name="boto_telefon">Telefon</string>
+    <string name="boto_mapa">Mapa</string>
+    <string name="boto_pagina_web">Pagina Web</string>
+    <string name="boto_correo_electronic">Correo Electronic</string>
+</resources>
